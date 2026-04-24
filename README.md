@@ -33,5 +33,22 @@ To design a structured healthcare database and generate meaningful insights usin
 2. Run the `Database_Setup.sql` script in SSMS to create the tables.
 3. Execute the scripts in the `Queries/` folder to generate the analytics reports.
 
+## 📷 Sample Output
+
+### Patients Table
+![Patients](patients_table.png)
+
+### Doctors Table
+![Doctors](doctors_table.png)
+
+### Appointments Table
+![Appointments](appointments_table.png)
+
+### Doctor Workload Analysis
+![Doctor Workload](doctor_workload.png)
+
+### Appointment Status Summary
+![Status](appointment_status_summary.png)"
+
 ## ✍️ Author
 Kehinde Onifade
