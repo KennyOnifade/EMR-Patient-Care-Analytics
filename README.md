@@ -50,5 +50,4 @@ To design a structured healthcare database and generate meaningful insights usin
 ### Appointment Status Summary
 ![Status](appointment_status_summary.png.jpeg)"
 
-## ✍️ Author
-Kehinde Onifade
+## ✍️ Author: [Kehinde Onifade](https://github.com/KennyOnifade)
