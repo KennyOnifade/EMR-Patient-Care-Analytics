@@ -30,8 +30,8 @@ To design a structured healthcare database and generate meaningful insights usin
 
 ## 🚀 How to Use
 1. Clone the repository.
-2. Run the `Database_Setup.sql` script in SSMS to create the tables.
-3. Execute the scripts in the `Queries/` folder to generate the analytics reports.
+2. Run the`emr_database.sql` script in SSMS to create the tables.
+3. Execute the scripts to generate the analytics reports.
 
 ## 📷 Sample Output
 
