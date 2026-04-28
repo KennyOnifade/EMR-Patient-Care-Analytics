@@ -36,19 +36,19 @@ To design a structured healthcare database and generate meaningful insights usin
 ## 📷 Sample Output
 
 ### Patients Table
-![Patients](patients_table.png)
+![Patients](patients_table.png.jpeg)
 
 ### Doctors Table
-![Doctors](doctors_table.png)
+![Doctors](doctors_table.png.jpeg)
 
 ### Appointments Table
-![Appointments](appointments_table.png)
+![Appointments](appointments_table.png.jpeg)
 
 ### Doctor Workload Analysis
-![Doctor Workload](doctor_workload.png)
+![Doctor Workload](doctor_workload.png.jpeg)
 
 ### Appointment Status Summary
-![Status](appointment_status_summary.png)"
+![Status](appointment_status_summary.png.jpeg)"
 
 ## ✍️ Author
 Kehinde Onifade
