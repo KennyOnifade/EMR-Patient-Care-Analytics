@@ -53,4 +53,9 @@ To design a structured healthcare database and generate meaningful insights usin
 ## 🧩 ER Diagram
 ![ER Diagram](emr_diagram.png)
 
+## 📊 Key Insights
+- Dr. James White has the highest number of appointments, indicating high workload in the Endocrinology department.
+- Most appointments are marked as "Completed", showing good patient follow-through.
+- A few "No Show" and "Cancelled" appointments indicate potential inefficiencies in scheduling.
+
 ## ✍️ Author: [Kehinde Onifade](https://github.com/KennyOnifade)
